@@ -1,3 +1,4 @@
+### not my code, credit to github user mattdodge at below url
 ### https://github.com/mattdodge/nyt-crossword-stats
 
 import argparse

@@ -19,4 +19,5 @@ if __name__ == '__main__':
                      title='Aju NYT Mini Solve Times from 2022-08-20 to 2025-03-10'
                      )
     
+    #fig.show()
     fig.write_html('index.html')
